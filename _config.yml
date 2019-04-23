@@ -22,7 +22,7 @@ navigation:                  # (optional) site navigation in the header
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
   envelope: "mailto:china_wangzhy@126.com"
   github: "https://github.com/china-wangzhy"
-  rss: "/contrast/feed.xml"
+  linkedin: "https://www.linkedin.com/in/%E5%BF%A0%E5%85%83-%E7%8E%8B-4b2b45184/"
 
 # Pagination
 show_excerpts: false         # preview articles on the home page
